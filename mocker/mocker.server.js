@@ -66,7 +66,7 @@ fs.readdir('./mocker/data/', (err, files) => {
 
 });
 
-const port = 4200;
+const port = 3000;
 
 server.listen(port, () => {
     console.log(`Mockup Server Listening on port ${port}`);
