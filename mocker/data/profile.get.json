@@ -1,6 +1,6 @@
 {
     "url": "/profile/update",
-    "method": "post",
+    "method": "get",
     "code": 200,
     "delay": 2000,
     "responseBody": {
